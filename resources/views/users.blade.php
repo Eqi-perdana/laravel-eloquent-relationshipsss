@@ -14,6 +14,8 @@
             <div class="card-body">
                 <h3 class="text-center"><a href="https://santrikoding.com">www.santrikoding.com</a></h3>
                 <h5 class="text-center my-4">Laravel Eloquent Relationship : One To One & Many To Many</h5>
+                <h5 class="text-center my-4">Eqiiii Perdanaaa</h5>
+
                 <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
